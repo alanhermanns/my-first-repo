@@ -1,1 +1,1 @@
-better README, really\!
+better README, really!
